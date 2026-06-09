@@ -30,6 +30,11 @@ Powershell
 </td>
   
 <td align="center">
+<img src="https://skillicons.dev/icons?i=java" /><br>
+Java
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=html" /><br>
 HTML
 </td>
@@ -39,10 +44,6 @@ HTML
 CSS
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" /><br>
-Java
-</td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=javascript" /><br>
@@ -68,6 +69,17 @@ Node.js
 <img src="https://skillicons.dev/icons?i=bun" /><br>
 Bun
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=expressjs" /><br>
+Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nestjs" /><br>
+Nest
+</td>
+
 </tr>
 </table>
 
