@@ -35,17 +35,6 @@ Java
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" /><br>
-HTML
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" /><br>
-CSS
-</td>
-
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=javascript" /><br>
 JavaScript
 </td>
@@ -53,6 +42,16 @@ JavaScript
 <td align="center">
 <img src="https://skillicons.dev/icons?i=typescript" /><br>
 TypeScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" /><br>
+HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" /><br>
+CSS
 </td>
 </tr>
 </table>
