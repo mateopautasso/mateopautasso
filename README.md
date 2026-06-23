@@ -1,19 +1,21 @@
 # Mateo Pautasso
 
 > Full Stack Developer focused on building maintainable and scalable software, with a strong interest in Software Architecture, Domain-Driven Design, Spec-Driven Development, AI, and Cloud Computing.
+I enjoy designing systems that accurately model business domains and remain adaptable as requirements evolve.
+> 
+> Some topics that particularly interest me include:
+> - Software Architecture
+> - Domain-Driven Design (DDD)
+> - Spec-Driven Development (SDD)
+> - Distributed Systems
+> - Cloud Computing
+> - Artificial Intelligence
+> - Testing and Software Quality
+>
+> I believe good software is not only about delivering features, but also about creating systems that are understandable, maintainable, and prepared for change.
 
 ---
-<!--
-## 👋 About Me
 
-Breve presentación (3–5 líneas).
-
-- Qué haces.
-- Qué te interesa.
-- Qué tipo de software disfrutas construir.
-
----
--->
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -164,7 +166,7 @@ AWS
 
 ### Practices
 
-`SOLID` · `Clean Architecture` · `Hexagonal Architecture` · `Domain-Driven Design` · `Test-Driven Development` · `Spec-Driven Development`
+`SOLID` · `Clean Architectures` · `Domain-Driven Design` · `Spec-Driven Development` · `Test-Driven Development`
 
 ---
 
