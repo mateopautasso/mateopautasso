@@ -1,6 +1,6 @@
 # Mateo Pautasso
 
-> Full Stack Developer focused on Software Architecture, Domain-Driven Design, Spec-Driven Development, AI and Cloud Computing.
+> Full Stack Developer focused on building maintainable and scalable software, with a strong interest in Software Architecture, Domain-Driven Design, Spec-Driven Development, AI, and Cloud Computing.
 
 ---
 <!--
