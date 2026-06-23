@@ -35,13 +35,13 @@ Java
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=javascript" /><br>
-JavaScript
+<img src="https://skillicons.dev/icons?i=typescript" /><br>
+TypeScript
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=typescript" /><br>
-TypeScript
+<img src="https://skillicons.dev/icons?i=javascript" /><br>
+JavaScript
 </td>
 
 <td align="center">
